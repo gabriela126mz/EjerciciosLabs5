@@ -1,0 +1,13 @@
+npm create vite@latest
+cd ...
+npm install 
+npm run dev
+
+npm install @reduxjs
+npm install toolkit react-redux
+npm install @reduxjs/toolkit redux
+npm install @vitejs/plugin-react
+
+
+Redux devtools extension de chrome
+
